@@ -1,4 +1,4 @@
-# Smart Dashboard Application
+# MKBHD Channel Analytics Dashboard
 
 Welcome to the Smart Dashboard application! This project provides a dashboard interface for monitoring various metrics and data insights.
 
